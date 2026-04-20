@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# Data and models
+data/
+*.npz
+*.pth
+*.pt
+
+# Results and logs
+results/
+logs/
+*.csv
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
