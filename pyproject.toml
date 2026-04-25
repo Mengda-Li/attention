@@ -3,6 +3,7 @@ name = "attention"
 version = "0.1.0"
 requires-python = ">=3.13.0"
 dependencies = [
+  "datasets>=3.0.0",
   "jupyter>=1.1.1",
   "matplotlib>=3.10.8",
   "numpy>=2.4.1",
